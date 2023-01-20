@@ -1,0 +1,38 @@
+
+body {
+    background-color: rgb(132, 229, 229);
+}
+
+section {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+input, textarea {
+    margin-bottom: .5rem;
+}
+
+.card {
+    width: 32%;
+    float: left;
+    margin: 5px;
+}
+
+#modal-1 {
+    width: 40%;
+    margin-left: 380px;
+    margin-bottom: 50px;
+    border: .5px solid #000;
+    border: ridge;
+    background-color: #fff;
+    height: 70%;
+}
+
+h1 {
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 5rem;
+    background-color: rgb(124, 209, 209);
+    width: 70%;
+    height: 100%;
+}
