@@ -1,0 +1,11 @@
+
+textarea.form-control {
+    width: 100% !important;
+    display: block;
+}
+
+#carouselExample {
+    width: auto;
+    height: 75%;
+    margin: 0 auto;
+}
